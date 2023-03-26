@@ -7,7 +7,7 @@ forked from peng4740/Cloud189Checkin-Actions
 > [cloud189](https://github.com/Aruelius/cloud189)
 
 # Github Actions说明
-## 一、Fork此仓库
+## 一、Fork此仓库 
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 ## 二、设置账号密码
 添加名为**USER**、**PWD**、**WWBOT**(可选)、**DDBOT**(可选)、**SCKEY**(可选)的变量  
